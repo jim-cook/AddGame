@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\AddGame\AddGame\bin\Debug\AddGame.exe.config
+C:\Users\admin\source\repos\AddGame\AddGame\bin\Debug\AddGame.exe
+C:\Users\admin\source\repos\AddGame\AddGame\bin\Debug\AddGame.pdb
+C:\Users\admin\source\repos\AddGame\AddGame\obj\Debug\AddGame.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\AddGame\AddGame\obj\Debug\AddGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\AddGame\AddGame\obj\Debug\AddGame.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\AddGame\AddGame\obj\Debug\AddGame.exe
+C:\Users\admin\source\repos\AddGame\AddGame\obj\Debug\AddGame.pdb
